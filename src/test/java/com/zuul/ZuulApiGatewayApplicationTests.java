@@ -1,4 +1,4 @@
-package com.mindtree;
+package com.zuul;
 
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;

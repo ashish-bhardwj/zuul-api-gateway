@@ -1,4 +1,4 @@
-package com.mindtree;
+package com.zuul;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
